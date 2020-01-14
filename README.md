@@ -100,3 +100,38 @@
 	    4. [gitignore.io](https://www.gitignore.io/)
     * Outro
 
+* Lesson - 20: Infrastructure Diagrams
+    * Introduction
+        * Resources:
+            1. [Learn about architecting at scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
+    * Generalizing to other cloud providers
+    * Setting up Lucidcharts
+        * Resources:
+            1. [Lucidchart](https://www.lucidchart.com/)
+    * Exercise: Setting Up Lucid Charts
+    * Diagramming AWS Accounts and Regions
+    * Exercise: Diagramming AWS accounts & regions
+    * Diagramming Availability Zones
+    * Exercise: Diagramming Availability Zones
+    * Virtual Private Cloud
+    * Exercise: Virtual Private Cloud
+    * Public vs Private Subnets
+    * Exercise: Public vs Private Subnets
+    * IGW Internet Gateway
+    * Exercise: IGW Internet Gateway
+    * Network Address Translation
+    * Exercise: NAT's
+    * Autoscaling groups
+    * Exercise: Autoscaling Groups
+    * Load Balancers
+    * Exercise: Load Balancers
+    * Security Groups
+    * Exercise: Security Groups
+    * Routing Table
+    * Exercise: Routing Table
+    * S3
+    * Exercise: S3
+    * Reviewing Our Diagram
+    * Conclusion
+        * Resources:
+            1. [AWS Architecture Center](https://aws.amazon.com/architecture/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&reference-architecture.sort-by=item.additionalFields.sortDate&reference-architecture.sort-order=desc)
