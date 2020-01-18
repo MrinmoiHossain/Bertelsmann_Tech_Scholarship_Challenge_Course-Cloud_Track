@@ -128,6 +128,39 @@
             * [AWS Free Tier](https://aws.amazon.com/free/)
     * Lesson Recap
 
+* Lesson - 13: Foundational & Compute Service
+    * Lesson Introduction
+    * Why do we need servers in the cloud?
+    * Elastic Cloud Compute (EC2)
+        * Resources:
+            * [Amazon Elastic Cloud Compute](https://www.amazonaws.cn/en/ec2/)
+    * Demo - Elastic Cloud Compute (EC2)
+    * Elastic Block Store (EBS)
+        * Resources:
+            * [Amazon Elastic Block Store](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
+    * Demo - Elastic Block Store (EBS)
+    * Why do we need security in the cloud for our servers?
+    * Virtual Private Cloud (VPC)
+        * Resources:
+            * [Virtual Private Cloud](https://en.wikipedia.org/wiki/Virtual_private_cloud)
+            * [Amazon Virtual Private Cloud](https://aws.amazon.com/vpc/)
+            * [Amazon VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+    * Demo - Virtual Private Cloud (VPC) 
+    * Lab - Launch an EC2 instance
+    * Why do we need compute power in the cloud?
+    * Lambda
+        * Resources:
+            * [AWS Lambda](https://aws.amazon.com/lambda/)
+    * Demo - Lambda
+    * Lab - Create and execute a Lambda
+    * Elastic Beanstalk
+        * Resources:
+            * [AWS Elastic Beanstalk Overview](https://aws.amazon.com/elasticbeanstalk/)
+            * [What is AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
+    * Lab - Deploy App to Beanstalk
+    * Lesson Recap
+
+
 * Lesson - 20: Infrastructure Diagrams
     * Introduction
         * Resources:
