@@ -100,6 +100,34 @@
 	    4. [gitignore.io](https://www.gitignore.io/)
     * Outro
 
+* Lesson - 12: Cloud Computing
+    * Course Introduction
+    * Instructor Introduction
+    * Lesson Introduction
+    * What is Cloud Computing?
+        * Resources:
+            * [Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/)
+    * Types of Cloud Computing
+        * Resources:
+            * [Types of Cloud Computing](https://aws.amazon.com/types-of-cloud-computing/)
+    * Cloud Computing Deployment Model 
+    * Common Benefits 
+    * Options
+    * Services
+        * Resources:
+            * [AWS Cloud Products](https://aws.amazon.com/products/)
+    * Global Infrastructure
+        * Resources:
+            * [Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
+            * [Regions & Availability Zones](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
+    * Shared Responsibility Model
+        * Resources:
+            * [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+    * Lab: Setup free-tier account
+        * Resources:
+            * [AWS Free Tier](https://aws.amazon.com/free/)
+    * Lesson Recap
+
 * Lesson - 20: Infrastructure Diagrams
     * Introduction
         * Resources:
@@ -135,3 +163,4 @@
     * Conclusion
         * Resources:
             1. [AWS Architecture Center](https://aws.amazon.com/architecture/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&reference-architecture.sort-by=item.additionalFields.sortDate&reference-architecture.sort-order=desc)
+
