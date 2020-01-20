@@ -160,6 +160,42 @@
     * Lab - Deploy App to Beanstalk
     * Lesson Recap
 
+* Lesson - 14: Storage & Content Delivery
+    * Lesson Introduction
+    * Why do we need storage in the cloud?
+    * S3 & Glacier
+        * Resources:
+            * [Amazon S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/)
+            * [Amazon S3](https://aws.amazon.com/s3/)
+            * [Amazon S3 Glacier](https://aws.amazon.com/glacier/)
+            * [What is Amazon S3 Glacier](https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html)
+    * Demo - S3 & Glacier 
+    * DynamoDB
+        * Resources:
+            * [Amazon DynamoDB Overview](https://aws.amazon.com/dynamodb/)
+            * [What is Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
+    * Demo - DynamoDB 
+    * Lab - DynamoDB
+    * Relational Database Service (RDS)
+        * Resources:
+            * [What Is A Relational Database](https://aws.amazon.com/relational-database/)
+            * [Amazon Relational Database Service](https://aws.amazon.com/rds/)
+            * [AWS Product Databases using Relational Databases](https://aws.amazon.com/products/databases/)
+    * Demo - Relational Database Service (RDS) 
+    * RedShift
+        * Resources:
+            * [What Is Amazon Redshift](https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html)
+            * [Amazon Redshift Overview](https://aws.amazon.com/redshift/)
+    * Lab - RDS
+    * Why do we need content delivery in the cloud?
+    * Cloud Front
+        * Resources:
+            * [Amazon CloudFront Overview](https://aws.amazon.com/cloudfront/)
+            * [What is Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+    * Demo - Cloud Front
+    * Lab - S3 & Cloud Front
+    * Lesson Recap
+
 
 * Lesson - 20: Infrastructure Diagrams
     * Introduction
