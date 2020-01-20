@@ -196,6 +196,25 @@
     * Lab - S3 & Cloud Front
     * Lesson Recap
 
+* Lesson - 15: Security
+    * Lesson Introduction
+    * Why do we need security for applications?
+    * AWS Shield
+        * Resources:
+            * [AWS Shield Overview](https://aws.amazon.com/shield/)
+    * AWS Web Application Firewall
+        * Resources:
+            * [AWS Web Application Firewall](https://aws.amazon.com/waf/)
+    * Identity and Access Management (IAM)
+        * Resources:
+            * [AWS IAM Overview](https://aws.amazon.com/iam/)
+            * [What is IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+    * Demo - Identity and Access Management (IAM) 
+    * Lab - IAM
+    * Lesson Recap
+
+        * Resources:
+            * []()
 
 * Lesson - 20: Infrastructure Diagrams
     * Introduction
