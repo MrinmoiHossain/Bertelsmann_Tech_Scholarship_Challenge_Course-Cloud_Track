@@ -213,8 +213,24 @@
     * Lab - IAM
     * Lesson Recap
 
+* Lesson - 16: Networking & Elasticity
+    * Lesson Introduction
+    * Why do we need networking in the cloud?
+    * Route 53
         * Resources:
-            * []()
+            * [Amazon Route 53 Overview](https://aws.amazon.com/route53/)
+    * Why do we need elasticity in the cloud?
+    * EC2 Auto Scaling
+        * Resources:
+            * [Amazon EC2 Autoscaling Overview](https://aws.amazon.com/ec2/autoscaling/)
+            * [What is Amazon EC2 Autoscaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)
+    * Demo - EC2 Auto Scaling
+    * Elastic Load Balancing
+        * Resources:
+            * [Amazon Elastic Load Balancing Overview](https://aws.amazon.com/elasticloadbalancing/)
+    * Demo - Elastic Load Balancing 
+    * Lab - EC2 Auto Scaling
+    * Lesson Recap
 
 * Lesson - 20: Infrastructure Diagrams
     * Introduction
