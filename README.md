@@ -232,6 +232,37 @@
     * Lab - EC2 Auto Scaling
     * Lesson Recap
 
+* Lesson - 19: Getting Started with CloudFormation
+    * Introduction
+    * Course Overview
+    * What is Cloud Computing
+    * Why you need Cloud DevOps
+    * What are the benefits of Cloud DevOps?
+        * Resources:
+            * [Difference between DevOps and Software Configuration Management](https://softwareengineering.stackexchange.com/questions/130850/difference-between-devops-and-software-configuration-management)
+            * [Why You Should Use Continuous Integration and Continuous Deployment](https://css-tricks.com/continuous-integration-continuous-deployment/)
+            * [Continuous integration vs. continuous delivery vs. continuous deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+    * Set up Tools
+    * Creating Access Key ID
+    * Configuring AWS CLI
+        * Resources:
+            * [AWS CLI tool](https://aws.amazon.com/cli/)
+    * Adding Additional Keys
+    * Understanding CloudFormation
+        * Resources:
+            * [Imperative programming](https://en.wikipedia.org/wiki/Imperative_programming)
+            * [Difference between functional and imperative programming languages](https://stackoverflow.com/questions/17826380/what-is-difference-between-functional-and-imperative-programming-languages)
+    * Getting Started With CloudFormation Script
+        * Resources:
+            * [AWS Documentation](https://docs.aws.amazon.com/index.html)
+    * Testing CloudFormation
+    * Creating a VPC: Manually vs Automated
+    * Configuring AWS API User
+    * Automating with CloudFormation
+    * Verifying in console
+    * Conclusion
+
+
 * Lesson - 20: Infrastructure Diagrams
     * Introduction
         * Resources:
@@ -267,4 +298,5 @@
     * Conclusion
         * Resources:
             1. [AWS Architecture Center](https://aws.amazon.com/architecture/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&reference-architecture.sort-by=item.additionalFields.sortDate&reference-architecture.sort-order=desc)
+
 
