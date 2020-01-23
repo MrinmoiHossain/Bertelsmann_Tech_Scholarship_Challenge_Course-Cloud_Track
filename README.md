@@ -327,3 +327,26 @@
             * [Join Function](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference-join.html)
             * [Substitutes](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference-sub.html)
     * Conclusion
+
+
+* Lesson - 22: Servers and Security Groups
+    * Introduction
+    * Setting Up Our Environment
+    * Understanding Security Groups
+        * Resources:
+            * [Security Groups Resource](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-security-group.html)
+    * Security Groups
+        * Resources:
+            * [Documentation for security groups in CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-security-group.html)
+            * [Security Group Rules Reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-group-rules-reference.html)
+    * Launch Configuration
+        * Resources:
+            * [Launch Configuration Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-as-launchconfig.html)
+    * Adding Target Groups and Listeners
+        * Resources:
+            * [TargetGroups Documentation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-elasticloadbalancingv2-targetgroup.html)
+            * [Health Checks for Your TargetGroups](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/target-group-health-checks.html)
+    * Updating the Stack with the Load Balancer
+    * Debugging Our Security Group
+    * Final Review
+    * Conclusion
