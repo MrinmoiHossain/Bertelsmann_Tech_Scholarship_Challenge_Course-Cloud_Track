@@ -100,6 +100,24 @@
 	    4. [gitignore.io](https://www.gitignore.io/)
     * Outro
 
+* Lesson - 11: Staying in Sync with a Remote Repository
+    * Intro
+    * Create a Pull Request
+    * Stay in sync with source project
+    * Manage an active PR
+    * Squash Commits
+        * Resources:
+            * [Git Branching - Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+            * [git-rebase](https://git-scm.com/docs/git-rebase)
+            * [The Atlassian blog](https://www.atlassian.com/git/tutorials/rewriting-history#git-rebase)
+    * Course Wrap Up
+        * Resources:
+            * [Up for Grabs](https://up-for-grabs.net/#/)
+            * [First Timers Only](https://www.firsttimersonly.com/)
+            * [first-timers-only label on GitHub](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aopen&type=Issues&ref=searchresults)
+            * [Try tackling some Git and GitHub challenges](https://github.com/jlord/git-it-electron)
+            * [To see what a developer's very first pull request](https://firstpr.me/)
+
 * Lesson - 12: Cloud Computing
     * Course Introduction
     * Instructor Introduction
