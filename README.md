@@ -100,6 +100,29 @@
 	    4. [gitignore.io](https://www.gitignore.io/)
     * Outro
 
+* Lesson - 7: Tagging, Branching and Merging
+    * Intro
+    * Tagging
+        * Resources:
+            * [Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+            * [Git Tag](https://git-scm.com/docs/git-tag)
+    * Branching
+        * Resources:
+            * [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+            * [Learn Git Branching](https://learngitbranching.js.org/)
+            * [Git Branching Tutorial](https://www.atlassian.com/git/tutorials/using-branches)
+    * Branching Effectively
+    * Merging
+        * Resources:
+            * [Basic Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#Basic-Merging)
+            * [git-merge](https://git-scm.com/docs/git-merge)
+            * [git merge from Atlassian blog](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+    * Merge Conflicts
+        * Resources:
+            * [Basic Merge Conflicts](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#Basic-Merge-Conflicts)
+            * [How Conflicts Are Presented](https://git-scm.com/docs/git-merge#_how_conflicts_are_presented)
+    * Outro
+
 * Lesson - 11: Staying in Sync with a Remote Repository
     * Intro
     * Create a Pull Request
