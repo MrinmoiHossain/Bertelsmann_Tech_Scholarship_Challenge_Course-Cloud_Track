@@ -138,6 +138,20 @@
     * Lesson Outro
     * Course Outro
 
+* Lesson - 9: Working with Remotes
+    * Intro
+        * Resources:
+            * [Version Control with Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
+    * Remote Repositories
+    * Add A Remote Repository
+        * Resources:
+            * [Working with Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes#_showing_your_remotes)
+            * [the git remote command](https://git-scm.com/docs/git-remote)
+    * Push Changes To A Remote
+    * Pulling Changes From A Remote
+    * Pull vs Fetch
+    * Lesson Wrap Up
+
 
 * Lesson - 11: Staying in Sync with a Remote Repository
     * Intro
