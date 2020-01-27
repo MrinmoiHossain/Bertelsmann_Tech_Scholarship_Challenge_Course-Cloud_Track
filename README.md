@@ -152,6 +152,14 @@
     * Pull vs Fetch
     * Lesson Wrap Up
 
+* Lesson - 10: Working on Another Developer's Repository
+    * Intro
+    * Forking A Repository
+    * Reviewing Existing Work
+        * Resources:
+            * [Lighthouse project on GitHub](https://github.com/GoogleChrome/lighthouse)
+            * [Shell Workshop - Udacity](https://www.udacity.com/course/shell-workshop--ud206)
+    * Determining What To Work On
 
 * Lesson - 11: Staying in Sync with a Remote Repository
     * Intro
