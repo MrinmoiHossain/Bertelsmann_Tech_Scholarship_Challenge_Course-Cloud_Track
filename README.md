@@ -123,6 +123,22 @@
             * [How Conflicts Are Presented](https://git-scm.com/docs/git-merge#_how_conflicts_are_presented)
     * Outro
 
+* Lesson - 8: Undoing Changes
+    * Intro
+    * Modifying The Last Commit
+    * Reverting A Commit
+        * Resources:
+            * [git-revert](https://git-scm.com/docs/git-revert)
+            * [git revert Atlassian tutorial](https://www.atlassian.com/git/tutorials/undoing-changes)
+    * Resetting Commits
+        * Resources:
+            * [git-reset](https://git-scm.com/docs/git-reset)
+            * [Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
+            * [Ancestry References from Git Book](https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection#Ancestry-References)
+    * Lesson Outro
+    * Course Outro
+
+
 * Lesson - 11: Staying in Sync with a Remote Repository
     * Intro
     * Create a Pull Request
