@@ -311,6 +311,32 @@
     * Lab - EC2 Auto Scaling
     * Lesson Recap
 
+* Lesson - 17: Messaging & Containers
+    * Lesson Introduction
+    * Why do we need messaging in the cloud?
+    * Simple Notification Service (SNS)
+        * Resources:
+            * [Amazon SNS Overview](https://aws.amazon.com/sns/)
+            * [What is Amazon SNS](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
+    * Demo - Simple Notification Service (SNS)
+    * Why do we need queuing technology?
+    * Simple Queue Service (SQS)
+        * Resources:
+            * [Amazon SQS Overview](https://aws.amazon.com/sqs/)
+            * [What is Amazon SQS](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html)
+    * Demo - Simple Queue Service
+    * Lab - SNS
+    * Why do we need containers?
+        * Resources:
+            * [General overview about Docker containers](https://docs.docker.com/engine/docker-overview/)
+            * [Documentation on Docker Containers](https://www.docker.com/resources/what-container)
+    * Elastic Container Service (ECS)
+        * Resources:
+            * [Amazon ECS Overview](https://aws.amazon.com/ecs/)
+            * [What is Amazon ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html)
+    * Demo - Elastic Container Service
+    * Lesson Recap
+
 * Lesson - 19: Getting Started with CloudFormation
     * Introduction
     * Course Overview
