@@ -337,6 +337,35 @@
     * Demo - Elastic Container Service
     * Lesson Recap
 
+* Lesson - 18: AWS Management
+    * Introduction
+    * Why do we need logging and auditing in the cloud?
+    * Cloud Trail
+        * Resources:
+            * [AWS CloudTrail Overview](https://aws.amazon.com/cloudtrail/)
+    * Demo - Cloud Trail
+    * Cloud Watch
+        * Resources:
+            * [AWS CloudWatch Overview](https://aws.amazon.com/cloudwatch/)
+            * [What is Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
+    * Demo - Cloud Watch
+    * Lab - Cloud Watch
+    * What is Infrastructure as Code and why do we need it?
+        * Resources:
+            * [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
+    * Cloud Formation
+        * Resources:
+            * [AWS CloudFormation Overview](https://aws.amazon.com/cloudformation/)
+            * [What is AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
+    * Demo - Cloud Formation
+    * Lab - Cloud Formation
+    * AWS Command Line Interface (CLI)
+    * Demo - AWS Command Line Interface (CLI)
+        * Resources:
+            * [AWS Command Line Interface](https://aws.amazon.com/cli/)
+    * Lesson Recap
+    * Course Recap
+
 * Lesson - 19: Getting Started with CloudFormation
     * Introduction
     * Course Overview
