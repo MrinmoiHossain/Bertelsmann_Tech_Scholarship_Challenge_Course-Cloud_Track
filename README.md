@@ -496,3 +496,6 @@
     * S3 (Part Three)
     * Key Points
     * Conclusion
+
+* Lesson - 24: Challenge Course Wrap-Up
+    * Great Work
