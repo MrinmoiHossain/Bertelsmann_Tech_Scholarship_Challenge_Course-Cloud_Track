@@ -462,7 +462,6 @@
             * [Substitutes](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference-sub.html)
     * Conclusion
 
-
 * Lesson - 22: Servers and Security Groups
     * Introduction
     * Setting Up Our Environment
@@ -483,4 +482,17 @@
     * Updating the Stack with the Load Balancer
     * Debugging Our Security Group
     * Final Review
+    * Conclusion
+
+* Lesson - 23: Storage and Databases
+    * Intro
+    * RDS Databases (Part One)
+    * RDS Databases (Part Two)
+    * RDS Database (Part Three)
+    * S3 (Part One)
+        * Resources:
+            * [DeletionPolicy Attribute](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-attribute-deletionpolicy.html)
+    * S3 (Part Two)
+    * S3 (Part Three)
+    * Key Points
     * Conclusion
