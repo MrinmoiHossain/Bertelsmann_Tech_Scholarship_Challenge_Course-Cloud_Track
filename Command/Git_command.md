@@ -5,12 +5,13 @@ git log -p
 git log -p -w
 
 
+### Tagging
 git tag -a tagName
 git log --decorate
 git tag -d tagName
 git tag --delete tagName
 
-
+### Branching
 git branch newBranchName
 git checkout newBranchName
 git log --oneline --decorate
